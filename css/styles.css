@@ -1,0 +1,13 @@
+#recommended {
+  display: none;
+}
+
+body {
+  background-color: darkseagreen;
+  font-family: fantasy;
+  font-size: 25px;
+}
+
+h1 {
+  text-align: center;
+}
